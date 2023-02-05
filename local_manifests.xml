@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <manifest> 
+  
+ <!-- Trees --> 
+         <project path="device/samsung" name="eurekadevelopment/android_device_samsung_exynos7885" remote="githublab" revision="android-13" /> 
+         <project path="kernel/samsung/exynos7885" name="eurekadevelopment/Eureka-Kernel-Exynos7885-Q-R-S" remote="githublab" revision="R11-AOSP" /> 
+         <project path="hardware/samsung_slsi/libbt" name="eurekadevelopment/android_hardware_samsung_slsi_libbt" remote="githublab" revision="android-13" /> 
+         <project path="hardware/samsung_slsi/scsc_wifibt/wifi_hal" name="eurekadevelopment/android_hardware_samsung_slsi_scsc_wifibt_wifi_hal" remote="githublab" revision="lineage-19.0" /> 
+         <project path="hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib" name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib" remote="githublab" revision="lineage-20" /> 
+         <project path="hardware/samsung" name="eurekadevelopment/android_hardware_samsung" remote="githublab" revision="AOSP-13"/> 
+         <project path="vendor/samsung" name="eurekadevelopment/android_vendor_samsung_exynos7885" remote="githublab" revision="android-13"/> 
+  
+ </manifest>
